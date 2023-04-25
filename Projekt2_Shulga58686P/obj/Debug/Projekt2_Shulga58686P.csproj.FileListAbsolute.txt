@@ -1,0 +1,7 @@
+F:\Wprowadzenie do programowania\Semestr1\CSharpProjektsCompleted\Projekt2_Shulga58686P\bin\Debug\Projekt2_Shulga58686P.exe.config
+F:\Wprowadzenie do programowania\Semestr1\CSharpProjektsCompleted\Projekt2_Shulga58686P\bin\Debug\Projekt2_Shulga58686P.exe
+F:\Wprowadzenie do programowania\Semestr1\CSharpProjektsCompleted\Projekt2_Shulga58686P\bin\Debug\Projekt2_Shulga58686P.pdb
+F:\Wprowadzenie do programowania\Semestr1\CSharpProjektsCompleted\Projekt2_Shulga58686P\obj\Debug\Projekt2_Shulga58686P.csproj.AssemblyReference.cache
+F:\Wprowadzenie do programowania\Semestr1\CSharpProjektsCompleted\Projekt2_Shulga58686P\obj\Debug\Projekt2_Shulga58686P.csproj.CoreCompileInputs.cache
+F:\Wprowadzenie do programowania\Semestr1\CSharpProjektsCompleted\Projekt2_Shulga58686P\obj\Debug\Projekt2_Shulga58686P.exe
+F:\Wprowadzenie do programowania\Semestr1\CSharpProjektsCompleted\Projekt2_Shulga58686P\obj\Debug\Projekt2_Shulga58686P.pdb
